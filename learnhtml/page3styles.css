@@ -1,0 +1,107 @@
+body {
+  color: #180233;
+  background-color: #c3afdb;
+}
+
+h1, h2 {
+    text-align: center;
+    background-color: #8c54d1;
+    font-family: "Garamond", "Arial", sans-serif;
+}
+
+h1 {
+    padding: 50px;
+}
+
+h2 {
+    padding: 20px;
+}
+
+h3 {
+    color: red;
+    text-align: center;
+}
+
+em {
+    color: purple;
+    font-size: 24px
+}
+
+ol {
+    color: #ff7a7a;
+    background-color: #e1c2ff;    /* Blue */
+    font-weight: bold;
+    padding: 25px;
+    text-align: center;
+
+    width: 200px;
+    margin: 20px auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #a3a6ff;
+}
+
+.bar {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #5d5fa3
+}
+
+a {
+    display: block;
+    padding: 8px;
+}
+
+p {
+    text-align: center;
+}
+
+p:first-of-type {
+    text-align: center;
+    font-size: 24px;
+    font-style: Helvetica;
+}
+
+.page{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:link {
+    color: #9100d4;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #9100d4;
+}
+
+a:hover {
+    color: #a8caff;
+    text-decoration: blink;
+}
+
+a:active{
+    color: green;
+}

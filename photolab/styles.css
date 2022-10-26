@@ -1,0 +1,36 @@
+.mainContent {
+    padding: 50px !important;
+    display: flex;
+    display-direction: row;
+    justify-context: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.mainContent h1{
+    font-family: cursive;
+    color: #4a4a4a;
+}
+
+.mainContent p {
+    color: #6b6b6b;
+    line-height: 2;
+}
+
+.navbar navbar-custom {
+    color: #000;
+    background-color: #e3f2fd;
+    
+}
+
+.masonry {
+  column-count: 3;
+  column-gap: 1em;
+}
+
+.item { 
+  background-color: #eee;
+  display: inline-block;
+  margin: 0 0 1em;
+  width: 100%;
+}

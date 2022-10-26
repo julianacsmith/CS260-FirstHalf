@@ -1,0 +1,49 @@
+.navbar-brand {
+    font-size: 30px;
+    font-family: monospace;
+}
+
+.main-content {
+    background-image: url("World.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    padding: 100px;
+}
+
+.shirt-description {
+    padding: 50px;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.shirt-description h1 {
+    font-size: 75px;
+    font-family: monospace;
+}
+
+.end-info {
+    color: #FFF;
+    background-color: #000e1c;
+    height:500px;
+}
+
+.info {
+    padding: 50px 10px;
+    font-family: Verdana;
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+
+hr {
+    height: 5px;
+    background-color: #000;
+}
+
+h3{
+    text-align: center;
+}

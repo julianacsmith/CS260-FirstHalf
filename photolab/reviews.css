@@ -1,0 +1,19 @@
+p {
+    background-color: #e6ebf2;
+    padding: 50px;
+    text-align: center;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 60px;
+    padding: 20px;
+}
+
+.reviews{
+     padding: 20px 100px;
+}
+
+hr {
+    margin: 50px 0px 50px 0px;
+}

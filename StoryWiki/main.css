@@ -1,0 +1,44 @@
+.hook {
+    padding: 50px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.main-content{
+    background-image: url("images/Tiny Book.jpeg");
+    opacity:0.75;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+}
+
+.login {
+    color: black;
+    background-color: white;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.login-form {
+    display: flex;
+    align-self: flex-start;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+button {
+    background-color: rgb(127,127,127);
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
